@@ -262,7 +262,7 @@ season_history      →  Historical data powering AI memory
 |:---|:---|
 | **Sai Vivek K N** | 1KI25CS102 |
 | **Sohan TS** | 1KI25CS114 |
-| **Vishnu TN** | 1KI25CS135 |
+| **Reehan pasha** | 1KI25CS098 |
 
 ---
 
